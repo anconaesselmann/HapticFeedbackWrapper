@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HapticFeedbackWrapper_Tests' do
+  pod 'HapticFeedbackWrapper', :path => '../'
+  
+  
+end
